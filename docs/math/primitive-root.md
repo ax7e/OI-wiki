@@ -111,7 +111,7 @@ $$
 由 $(ab)^{\delta_m(ab)}\equiv 1 \pmod m$ 可知
 
 $$
-1 \equiv (ab)^{\delta_m(ab)\delta_m(b)}\equiv a^{\delta_m(ab)} \pmod m
+1 \equiv (ab)^{\delta_m(ab)\delta_m(b)}\equiv a^{\delta_m(ab)\delta_m(b)} \pmod m
 $$
 
 故 $\delta_m(a)\mid\delta_m(ab)\delta_m(b)$。结合 $\gcd(\delta_m(a),\delta_m(b))=1$ 即得
